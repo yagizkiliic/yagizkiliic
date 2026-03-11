@@ -3,11 +3,10 @@
 Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme tutkusu ile öğrenmeye devam ediyorum.  
 Hedefim kendimi geliştirmek ve etkili, pratik projeler üretmek.  
 
-
 ---
 
 ## 🌟 Hakkımda
-- 💻 Programlama: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), SQL
+- 💻 Programlama: Java,Python,SQL
 - 📈 İlgi Alanları: Backend, Mobil Oyun ve Uygulama  
 
 ---
