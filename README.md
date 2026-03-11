@@ -7,19 +7,8 @@ Hedefim kendimi geliştirmek ve etkili, pratik projeler üretmek.
 ---
 
 ## 🌟 Hakkımda
-- 💻 Programlama: Java, Python, SQL
+- 💻 Programlama: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), SQL
 - 📈 İlgi Alanları: Backend, Mobil Oyun ve Uygulama  
-
----
-
-## 📊 GitHub İstatistikleri
-![Yağız'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=yagizkiliic&show_icons=true&theme=radical)
-
----
-
-## 🛠️ Teknoloji & Beceri Rozetleri
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
